@@ -2,7 +2,8 @@
 
 ## 🛡 Sayrix Information 
 
-The Sayrix its a one Discord Bot for fun, moderation, and much more developed by [ByGonca](https://github.com/ByGONCA).
+The Sayrix its a one Discord Bot for Fun, Moderation, and much more developed by [ByGonca](https://github.com/ByGONCA).
+He has maded with TypeScript <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.png"></code>
 
 ## 🚀 Getting Started
 To start, just click the [use template link](https://github.com/ByGONCA/Sayrix/generate) (or the green button).
@@ -38,5 +39,4 @@ Rename `.env.example` to `.env` and fill out the values.
 
 
 ## License
-This project is licensed under the [MIT](LICENSE) license.
-
+This project is licensed under the [GPL-3.0](LICENSE) license.

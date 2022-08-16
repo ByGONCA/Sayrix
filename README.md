@@ -38,5 +38,5 @@ Rename `.env.example` to `.env` and fill out the values.
 
 
 ## License
-This project is licensed under the [GPL-3.0](LICENSE) license.
+This project is licensed under the [MIT](LICENSE) license.
 

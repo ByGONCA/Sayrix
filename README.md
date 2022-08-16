@@ -1,6 +1,6 @@
 <h1 align="center">🤖 Sayrix PowerFull Discord Bot</h1>
 
-<p align="center">🛠 TOOLS
+<p align="center">
   <a href="https://github.com/ByGONCA/Sayrix">
     <img src="https://skillicons.dev/icons?i=discord,ts,nodejs,git,github" />
   </a>

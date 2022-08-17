@@ -20,6 +20,7 @@ He was made with TypeScript <img height="25" src="https://raw.githubusercontent.
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [Node.js 16.9.0 or newer](https://nodejs.org/en/)
 - [Discord Application](https://discord.com/developers/applications)
+- 
   1 - First, you must go to the developer section of Discord to create a [New Application](https://discord.com/developers/applications).
   
   2 - At the top right, click on the "**New Application**" button.
